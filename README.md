@@ -1,18 +1,19 @@
 # Marketing_research
 
 Good day, this research was made while I was studying in Yandex.
-Purpose: 
+
+**Purpose**: 
 - understand the cause of Procrastinate Pro+'s losses;
 - give recommendations to correct the situation
 
-Stages: 
+**Stages**: 
 1) data loading, EDA
 2) LTV, ROI calculations
 3) conclusions
 
-Stack: pandas, numpy, seaborn, matplotlib, plotly, scipy, datetime
+**Stack**: pandas, numpy, seaborn, matplotlib, plotly, scipy, datetime
 
-Conclusions:
+**Conclusions**:
 1) It was determined that advertising does not pay off (in general, for the advertising company ROI = 0.8. The situation is better if you look separately by region or device type). It has been established that the following channels for attracting users require optimization of the advertising campaign:
     - FaceBoom (low hold);
     - AdNonSense (low retention);
